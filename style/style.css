@@ -4,11 +4,11 @@
 
 
 .icono{
-    color:aquamarine ;
+    color:rgb(243, 145, 191) ;
 }
 
 .form{
-    background-color: bisque;
+    background-color: rgb(255, 196, 228);
     margin: 40px;
     width: 450px;
     height: 400px;
